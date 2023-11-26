@@ -1,0 +1,14 @@
+{
+	"name": "makeadeposit",
+	"version": "1.0.0",
+	"description": "building a simple game as reference to practicing javascript",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Nwobodo Chukwuemeka",
+	"license": "ISC",
+	"dependencies": {
+		"prompt-sync": "^4.2.0"
+	}
+}
